@@ -56,4 +56,4 @@ Currently available only for **Windows** via MSI installer.
 
 
 ---
-You can download the MSI installer [here](https://example.com/your-file.msi)
+You can download the MSI installer [here](https://github.com/Uladislau-Kulikou/TeleMouse/releases/tag/1.0.0)
